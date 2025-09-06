@@ -17,4 +17,4 @@ NumPy
 Pandas
 
 # Dataset
-이 코드는 Netflix Prize 데이터셋을 기준으로 작성되었습니다. dataset/ 폴더에 데이터 파일을 위치시켜야 합니다. utils.py의 preprocessing 함수가 이 파일들을 자동으로 파싱합니다.
+이 코드는 Netflix Prize 데이터셋을 기준으로 작성되었습니다. utils.py의 preprocessing 함수가 이 파일들을 자동으로 파싱합니다.
